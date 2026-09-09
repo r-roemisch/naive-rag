@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 data/
+dataj.json
 
 # C extensions
 *.so

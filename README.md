@@ -1,5 +1,5 @@
 # naive-rag
-Creating a basic rag system to test and evolve features
+Creating a basic rag system from scratch
 
 This RAG uses only pdf files as data
 
