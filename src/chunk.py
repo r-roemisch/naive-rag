@@ -19,8 +19,8 @@ def chunking(text, chunk_size, overlap):
     return chunks
 
 def chunking_all(data_list):
-    chunk_size = 30
-    overlap = 5
+    chunk_size = 60
+    overlap = 15
     chunk_id = 0
     chunk_list = []
     for pdf in data_list:
