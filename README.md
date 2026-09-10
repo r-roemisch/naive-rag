@@ -1,7 +1,8 @@
 # naive-rag
 Creating a basic rag system from scratch
 
-This RAG uses only pdf files as data
+
+### This RAG uses only pdf files as data
 
 usable functions
 documents = load_documents()

@@ -5,6 +5,8 @@ __pycache__/
 
 data/
 dataj.json
+chunksj.json
+vectors.json
 
 # C extensions
 *.so
